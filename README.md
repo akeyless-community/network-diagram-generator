@@ -19,7 +19,7 @@ pip3 install -r requirements.txt
 ### For Multi-tenant network diagrams
 
 ```bash
-python3 multi-tenant-network.py|
+python3 multi-tenant-network.py
 ```
 
 ### For Single-tenant network diagrams

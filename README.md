@@ -2,11 +2,11 @@
 
 ## Multi-tenant Network Diagram
 
-![current multi-tenant network diagram](multi-tenant-network.py)
+![current multi-tenant network diagram](multi-tenant_network_diagram.png)
 
 ## Single-tenant Network Diagram
 
-![current single-tenant network diagram](single-tenant-network.py)
+![current single-tenant network diagram](single-tenant_network_diagram.png)
 
 ## Installation
 
